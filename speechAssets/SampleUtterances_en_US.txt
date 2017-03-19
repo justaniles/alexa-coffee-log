@@ -1,0 +1,11 @@
+StartNewLogIntent new log
+StartNewLogIntent new log for {CoffeeRoaster}
+StartNewLogIntent start a new log
+StartNewLogIntent start a new log for {CoffeeRoaster}
+StartNewLogIntent start a new coffee log
+StartNewLogIntent start a new coffee log for {CoffeeRoaster}
+
+InputRoasterIntent {CoffeeRoaster}
+InputRoasterIntent its name is {CoffeeRoaster}
+InputRoasterIntent the roaster's name is {CoffeeRoaster}
+InputRoasterIntent the roaster is {CoffeeRoaster}

@@ -1,0 +1,37 @@
+{
+    "intents": [
+        {
+            "intent": "StartNewLogIntent",
+            "slots": [
+                {
+                    "name": "CoffeeRoaster",
+                    "type": "LIST_OF_COFFEE_ROASTERS"
+                }
+            ]
+        },
+        {
+            "intent": "InputRoasterIntent",
+            "slots": [
+                {
+                    "name": "CoffeeRoaster",
+                    "type": "LIST_OF_COFFEE_ROASTERS"
+                }
+            ]
+        },
+        {
+            "intent": "AMAZON.YesIntent"
+        },
+        {
+            "intent": "AMAZON.NoIntent"
+        },
+        {
+            "intent": "AMAZON.CancelIntent"
+        },
+        {
+            "intent": "AMAZON.HelpIntent"
+        },
+        {
+            "intent": "AMAZON.StopIntent"
+        }
+    ]
+}
