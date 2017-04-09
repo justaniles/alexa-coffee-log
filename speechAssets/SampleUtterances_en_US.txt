@@ -9,3 +9,8 @@ InputRoasterIntent {CoffeeRoaster}
 InputRoasterIntent its name is {CoffeeRoaster}
 InputRoasterIntent the roaster's name is {CoffeeRoaster}
 InputRoasterIntent the roaster is {CoffeeRoaster}
+
+InputBrewMethodIntent {BrewMethod}
+InputBrewMethodIntent I used {BrewMethod}
+InputBrewMethodIntent I used a {BrewMethod}
+InputBrewMethodIntent I used an {BrewMethod}

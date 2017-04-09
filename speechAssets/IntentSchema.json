@@ -19,6 +19,24 @@
             ]
         },
         {
+            "intent": "InputBrewMethodIntent",
+            "slots": [
+                {
+                    "name": "BrewMethod",
+                    "type": "LIST_OF_BREW_METHODS"
+                }
+            ]
+        },
+        {
+            "intent": "InputRating",
+            "slots": [
+                {
+                    "name": "Rating",
+                    "type": // TODO: Amazon.Number type
+                }
+            ]
+        },
+        {
             "intent": "AMAZON.YesIntent"
         },
         {
